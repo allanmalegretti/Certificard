@@ -2,20 +2,22 @@
 
 Certificado com os projetos desenvolvidos na 3ª Imersão Dev da Alura
 
-Aula 01 - Calculadora de média
-Aula 02 - Conversor de moedas
-Aula 03 - Mentalista
-Aula 04 - Aluraflix 1.0
-Aula 05 - Aluraflix 2.0
-Aula 06 - Tabela de classificações
-Aula 07 - Super Trunfo 1.0
-Aula 08 - Super Trunfo 2.0
-Aula 09 - Portfolio
-Aula 10 - Portfolio/Certificard
+<p>Aula 01 - Calculadora de média<br>
+Aula 02 - Conversor de moedas<br>
+Aula 03 - Mentalista<br>
+Aula 04 - Aluraflix 1.0<br>
+Aula 05 - Aluraflix 2.0<br>
+Aula 06 - Tabela de classificações<br>
+Aula 07 - Super Trunfo 1.0<br>
+Aula 08 - Super Trunfo 2.0<br>
+Aula 09 - Portfolio<br>
+Aula 10 - Portfolio/Certificard</p>
 
-####################################################################################################################################
+<!-- #################################################################################################################################### -->
 
-Aula 01 - Calculadora de média
+# Aula 01 - Calculadora de média
+https://imersao.dev/aulas/aula01-variaveis-operacoes-media
+https://www.youtube.com/watch?v=0GBN30Z24AM
 
 Variáveis, operações e média
 Participe e vá mais fundo
@@ -73,9 +75,11 @@ Como compartilhar seu CodePen:
     Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev,#alura
     Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!
     
-####################################################################################################################################
+<!-- #################################################################################################################################### -->
 
-Aula 02 - Conversor de moedas
+# Aula 02 - Conversor de moedas
+https://imersao.dev/aulas/aula02-conversor-moedas
+https://www.youtube.com/watch?v=00GLBMyGCsg
 
 Conversor de moedas
 Participe e vá mais fundo
@@ -127,9 +131,11 @@ Como compartilhar seu CodePen:
     Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev, #alura
     Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!
 
-####################################################################################################################################    
+<!-- ####################################################################################################################################     -->
     
-Aula 03 - Mentalista
+# Aula 03 - Mentalista
+https://imersao.dev/aulas/aula03-mentalista
+https://www.youtube.com/watch?v=0_J3MI7lENk
 
 Mentalista
 Participe e vá mais fundo
@@ -180,9 +186,11 @@ Como compartilhar seu CodePen:
     Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev,#alura
     Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!
 
-####################################################################################################################################    
+<!-- ####################################################################################################################################   -->
     
-Aula 04 - Aluraflix 1.0
+# Aula 04 - Aluraflix 1.0
+https://imersao.dev/aulas/aula04-array-lista-aluraflix
+https://www.youtube.com/watch?v=d-N46567loU
 
 Array, lista e AluraFlix
 Participe e vá mais fundo
@@ -232,9 +240,11 @@ Como compartilhar seu CodePen:
     Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev,#alura
     Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!
 
-####################################################################################################################################
+<!-- #################################################################################################################################### -->
 
-Aula 05 - Aluraflix 2.0
+# Aula 05 - Aluraflix 2.0
+https://imersao.dev/aulas/aula05-funcoes-aluraflix
+https://www.youtube.com/watch?v=ELPAQcu5TbY
 
 Funções no AluraFlix
 Participe e vá mais fundo
@@ -288,9 +298,11 @@ Como compartilhar seu CodePen:
     Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev,#alura
     Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!
 
-####################################################################################################################################
+<!-- #################################################################################################################################### -->
 
-Aula 06 - Tabela de classificações
+# Aula 06 - Tabela de classificações
+https://imersao.dev/aulas/aula06-objetos-tabelas-classificacao
+https://www.youtube.com/watch?v=rXKgTb0BScE
 
 Objetos e tabelas de classificação
 Participe e vá mais fundo
@@ -334,9 +346,11 @@ Como compartilhar seu CodePen:
     Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev,#alura
     Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!
 
-####################################################################################################################################
+<!-- #################################################################################################################################### -->
 
-Aula 07 - Super Trunfo 1.0
+# Aula 07 - Super Trunfo 1.0
+https://imersao.dev/aulas/aula07-supertrunfo
+https://www.youtube.com/watch?v=EMyrRa2m6aM
 
 SuperTrunfo - lógica do jogo
 Participe e vá mais fundo
@@ -384,9 +398,11 @@ Como compartilhar seu CodePen:
     Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev,#alura
     Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!
 
-####################################################################################################################################
+<!-- #################################################################################################################################### -->
 
-Aula 08 - Super Trunfo 2.0
+# Aula 08 - Super Trunfo 2.0
+https://imersao.dev/aulas/aula08-supertrunfo-cartas
+https://www.youtube.com/watch?v=sCBovmDN6Dc
 
 SuperTrunfo - Cartas do jogo
 Participe e vá mais fundo
@@ -432,9 +448,11 @@ Como compartilhar seu CodePen
     Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev,#alura
     Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!
 
-####################################################################################################################################
+<!-- #################################################################################################################################### -->
 
-Aula 09 - Portfolio
+# Aula 09 - Portfolio
+https://imersao.dev/aulas/aula09-figma-html-css
+https://www.youtube.com/watch?v=4qyKgdjCvUA
 
 Figma, HTML e CSS
 Participe e vá mais fundo
@@ -476,9 +494,11 @@ Como compartilhar seu CodePen
     Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev,#alura
     Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!
 
-####################################################################################################################################
+<!-- #################################################################################################################################### -->
 
-Aula 10 - Portfolio/Certificard
+# Aula 10 - Portfolio/Certificard
+https://imersao.dev/aulas/aula10-portfolio
+https://www.youtube.com/watch?v=GnnKr6qhDxE
 
 Portfólio
 Participe e vá mais fundo
