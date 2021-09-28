@@ -1,6 +1,6 @@
-# Certificard
+<h1> Certificard </h1>
 
-Certificado com os projetos desenvolvidos na 3ª Imersão Dev da Alura
+<h3> Certificado com os projetos desenvolvidos na 3ª Imersão Dev da Alura </h3>
 
 <p>Aula 01 - Calculadora de média<br>
 Aula 02 - Conversor de moedas<br>
@@ -15,9 +15,9 @@ Aula 10 - Portfolio/Certificard</p>
 
 <!-- #################################################################################################################################### -->
 
-# Aula 01 - Calculadora de média
-https://imersao.dev/aulas/aula01-variaveis-operacoes-media
-https://www.youtube.com/watch?v=0GBN30Z24AM
+<h2> Aula 01 - Calculadora de média </h2>
+<p> https://imersao.dev/aulas/aula01-variaveis-operacoes-media <br>
+https://www.youtube.com/watch?v=0GBN30Z24AM </p>
 
 Variáveis, operações e média
 Participe e vá mais fundo
@@ -77,9 +77,9 @@ Como compartilhar seu CodePen:
     
 <!-- #################################################################################################################################### -->
 
-# Aula 02 - Conversor de moedas
-https://imersao.dev/aulas/aula02-conversor-moedas
-https://www.youtube.com/watch?v=00GLBMyGCsg
+<h2> Aula 02 - Conversor de moedas </h2>
+<p> https://imersao.dev/aulas/aula02-conversor-moedas <br>
+https://www.youtube.com/watch?v=00GLBMyGCsg </p>
 
 Conversor de moedas
 Participe e vá mais fundo
@@ -133,9 +133,9 @@ Como compartilhar seu CodePen:
 
 <!-- ####################################################################################################################################     -->
     
-# Aula 03 - Mentalista
-https://imersao.dev/aulas/aula03-mentalista
-https://www.youtube.com/watch?v=0_J3MI7lENk
+<h2> Aula 03 - Mentalista </h2>
+<p> https://imersao.dev/aulas/aula03-mentalista <br>
+https://www.youtube.com/watch?v=0_J3MI7lENk </p>
 
 Mentalista
 Participe e vá mais fundo
@@ -188,9 +188,9 @@ Como compartilhar seu CodePen:
 
 <!-- ####################################################################################################################################   -->
     
-# Aula 04 - Aluraflix 1.0
-https://imersao.dev/aulas/aula04-array-lista-aluraflix
-https://www.youtube.com/watch?v=d-N46567loU
+<h2> Aula 04 - Aluraflix 1.0 </h2>
+<p> https://imersao.dev/aulas/aula04-array-lista-aluraflix <br>
+https://www.youtube.com/watch?v=d-N46567loU </p>
 
 Array, lista e AluraFlix
 Participe e vá mais fundo
@@ -242,9 +242,9 @@ Como compartilhar seu CodePen:
 
 <!-- #################################################################################################################################### -->
 
-# Aula 05 - Aluraflix 2.0
-https://imersao.dev/aulas/aula05-funcoes-aluraflix
-https://www.youtube.com/watch?v=ELPAQcu5TbY
+<h2> Aula 05 - Aluraflix 2.0 </h2>
+<p> https://imersao.dev/aulas/aula05-funcoes-aluraflix <br>
+https://www.youtube.com/watch?v=ELPAQcu5TbY </p>
 
 Funções no AluraFlix
 Participe e vá mais fundo
@@ -300,9 +300,9 @@ Como compartilhar seu CodePen:
 
 <!-- #################################################################################################################################### -->
 
-# Aula 06 - Tabela de classificações
-https://imersao.dev/aulas/aula06-objetos-tabelas-classificacao
-https://www.youtube.com/watch?v=rXKgTb0BScE
+<h2> Aula 06 - Tabela de classificações </h2>
+<p> https://imersao.dev/aulas/aula06-objetos-tabelas-classificacao <br>
+https://www.youtube.com/watch?v=rXKgTb0BScE </p>
 
 Objetos e tabelas de classificação
 Participe e vá mais fundo
@@ -348,9 +348,9 @@ Como compartilhar seu CodePen:
 
 <!-- #################################################################################################################################### -->
 
-# Aula 07 - Super Trunfo 1.0
-https://imersao.dev/aulas/aula07-supertrunfo
-https://www.youtube.com/watch?v=EMyrRa2m6aM
+<h2> Aula 07 - Super Trunfo 1.0 </h2>
+<p> https://imersao.dev/aulas/aula07-supertrunfo <br>
+https://www.youtube.com/watch?v=EMyrRa2m6aM </p>
 
 SuperTrunfo - lógica do jogo
 Participe e vá mais fundo
@@ -400,9 +400,9 @@ Como compartilhar seu CodePen:
 
 <!-- #################################################################################################################################### -->
 
-# Aula 08 - Super Trunfo 2.0
-https://imersao.dev/aulas/aula08-supertrunfo-cartas
-https://www.youtube.com/watch?v=sCBovmDN6Dc
+<h2> Aula 08 - Super Trunfo 2.0 </h2>
+<p> https://imersao.dev/aulas/aula08-supertrunfo-cartas <br>
+https://www.youtube.com/watch?v=sCBovmDN6Dc </p>
 
 SuperTrunfo - Cartas do jogo
 Participe e vá mais fundo
@@ -450,9 +450,9 @@ Como compartilhar seu CodePen
 
 <!-- #################################################################################################################################### -->
 
-# Aula 09 - Portfolio
-https://imersao.dev/aulas/aula09-figma-html-css
-https://www.youtube.com/watch?v=4qyKgdjCvUA
+<h2> Aula 09 - Portfolio </h2>
+<p> https://imersao.dev/aulas/aula09-figma-html-css <br>
+https://www.youtube.com/watch?v=4qyKgdjCvUA </p>
 
 Figma, HTML e CSS
 Participe e vá mais fundo
@@ -496,9 +496,9 @@ Como compartilhar seu CodePen
 
 <!-- #################################################################################################################################### -->
 
-# Aula 10 - Portfolio/Certificard
-https://imersao.dev/aulas/aula10-portfolio
-https://www.youtube.com/watch?v=GnnKr6qhDxE
+<h2> Aula 10 - Portfolio/Certificard </h2>
+<p> https://imersao.dev/aulas/aula10-portfolio <br>
+https://www.youtube.com/watch?v=GnnKr6qhDxE </p>
 
 Portfólio
 Participe e vá mais fundo
